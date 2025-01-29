@@ -9,7 +9,7 @@ body{
     
 }
 .tip_row{
-    width: 870px;
+    width: 900px;
     height: 430px;
     background-color: orange;
     margin: auto;
@@ -107,7 +107,7 @@ form{
 }
 .total{
     font-family: "Courgette", serif;
-    font-size: 32px;
+    font-size: 30px;
 }
 /*  */
 .image_container img{
@@ -246,7 +246,7 @@ form{
 
 /* for above 600 */
 
-@media (min-width: 600px) and (max-width: 1024px) {
+@media (min-width: 600px) and (max-width:900px) {
     .tip_row{
         width: 850px;
         height: 430px;
