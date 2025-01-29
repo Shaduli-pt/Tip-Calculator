@@ -246,7 +246,7 @@ form{
 
 /* for above 600 */
 
-@media (min-width: 600px) and (max-width:900px) {
+@media screen and (min-width:600px) and (max-width:950px){
     .tip_row{
         width: 850px;
         height: 430px;
