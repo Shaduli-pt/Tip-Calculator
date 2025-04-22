@@ -149,7 +149,7 @@ form{
         background-color: #F9E4BC;
     }
     .tip_row{
-        width:auto;
+        width:100vw;
         height:1000px;
         background-color: #F9E4BC;
         margin: auto;
@@ -246,7 +246,7 @@ form{
 
 /* for above 600 */
 
-@media screen and (min-width:600px) and (max-width:950px){
+@media (min-width: 600px) and (max-width:900px) {
     .tip_row{
         width: 850px;
         height: 430px;
